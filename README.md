@@ -23,10 +23,12 @@
 - HealthPulse – Health and Wellness Assistant
 
 ### 📜 Certifications & Achievements
+- Microsoft Certified: SQL AI Developer Associate 
 - Infosys Springboard – Java Programming Fundamentals
 - NPTEL – Database Management Systems
 - HackerRank – SQL Gold Badge
 - Oracle Cloud Infrastructure Certification
+  
 
 ### 📫 Connect With Me
 - LinkedIn:https://www.linkedin.com/in/-gayathri-j/
